@@ -1,0 +1,7 @@
+blockquote.left {
+    float: left;
+}
+
+blockquote.right {
+    float: right;
+}
