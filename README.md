@@ -9,7 +9,7 @@ How To:
 
 <ol>
 <li>Write your article.</li>
-<li>Put "span" tags around whatever text you want to be in a blockquote, and add the class "callout-right" or "callout-left" to the span.</li>
+<li>Put <code>span</code> tags around whatever text you want to be in a blockquote, and add the class "callout-right" or "callout-left" to the span.</li>
 <li>Include the <code>addBlockquote.js</code> file or just drop it at the end off a script tag.</li>
 <li>Include <code>addBlockquote.css</code> or just make "left" and "right" classes in CSS with <code>float: left;</code> and <code>float: right;</code> assigned respectively.</li>
 </ol>
